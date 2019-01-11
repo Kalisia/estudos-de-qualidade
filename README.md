@@ -1,4 +1,4 @@
-# Estudos de qualidade
+# Estudos de qualidade :heavy_check_mark:
 
 Aqui é um campo do meu github dedicado à listar tudo o quê eu preciso ler sobre e aprender este ano - 2019.
 
